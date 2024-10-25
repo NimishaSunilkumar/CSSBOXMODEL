@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    background-color: chartreuse;
+    padding: 30px;
+    border: 2px solid red;
+   margin:0 auto;
+    width: 250px;
+
+}
+#para{
+    background-color: blueviolet;
+    color: beige;
+    padding: 10px;
+    height: 40px;
+    
+}
